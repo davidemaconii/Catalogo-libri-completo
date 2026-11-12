@@ -50,18 +50,18 @@ body {
     width: 150px;
     height: 230px;
 }
-#carrello {
+.carrello {
     display: inline-block;
     padding-top: 5px;
 }
-#descrizione {
+.descrizione {
 	padding-right: 0px;
 	
 }
-#autrice {
+.autrice {
  font-weight: bold;
 }
-#prezzo {
+.prezzo {
 	float: left;
 	padding-top: 5px;
 	font-weight: bold;
